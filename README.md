@@ -1,1 +1,1 @@
-# my-smartcontract-akash-network
+# workflows
